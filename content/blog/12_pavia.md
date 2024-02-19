@@ -7,7 +7,7 @@ categories:
   - Lombardy
 tags:
 description:
-image: 
+image: images/2023-11-01-pavia/28.jpg
 math: null
 license: null
 type: post
@@ -32,4 +32,6 @@ Its not like it was so terrible to be under Visconti rule. The Viscontis really 
 Afterwards it was bot that shiny because it was under constant attacks from the french, spanish, austrians and whoever felt like it. So the only thing that kept the towns soul alive was the uni which produced a lot of great intellectuals.
 
 This cultural richness is still tangible today, with a lot of traditions, events, and nevertheless the cuisine. Additionally, Pavia is one of the rare towns in Italy situated next to a river. Since water in general has insane impact in forming civilizations and specific cultures and societies, it is no wonder that I put Pavia in the same box as Mantova and Cremona even though they have quite different history. Namely, the Ticino river, which crosses Pavia, is the offspring of the Po - which connects these 3 towns.
+
+{{< gallery dir="/images/2023-11-01-pavia/" caption-position="none" />}}
 

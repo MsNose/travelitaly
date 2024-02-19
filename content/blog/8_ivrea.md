@@ -9,7 +9,7 @@ tags:
 - Provincia Torino
 - carnival
 - mountains
-image: 
+image: images/2023-10-07-ivrea/20231007_103655.jpg
 math: null
 license: null
 hidden: no
@@ -106,3 +106,7 @@ Va cantando ogni rione:
 Il Castello non c'è più.
 
 </center>
+
+
+{{< gallery dir="/images/2023-10-07-ivrea/" caption-position="none" />}}
+

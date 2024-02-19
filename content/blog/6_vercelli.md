@@ -8,7 +8,7 @@ categories:
 tags:
 - Provincia Vercelli
 - nice people
-image:
+image: images/2023-09-23-vercelli/vercelli.jpg
 type: post
 ---
 
@@ -26,3 +26,4 @@ Bur the Museum Leone was not only memorable for its unique funding story but for
 
 Despite all of the attention and materials that we got we are still not having a clear image about the history of Vercelli, but just getting through this whole procedure was priceless. Ending the day with walking through the main square filled with vibrant life of families and friends just contributed to the humbleness of the city.
 
+{{< gallery dir="/images/2023-09-23-vercelli/" caption-position="none" />}}

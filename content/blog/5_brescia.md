@@ -10,7 +10,7 @@ tags:
 - Città Alta
 description: This is meta description
 
-image: 
+image: images/2023-09-20-brescia/11.jpg
 type: post
 
 ---
@@ -64,5 +64,6 @@ The Brescians fought a lot for their town. They rose up, they volunteered, they 
 
 
 
+{{< gallery dir="/images/2023-09-20-brescia/" caption-position="none" />}}
 
 
