@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiking on Blanka&#39;s Travel Blog</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/hiking/</link>
+    <description>Recent content in hiking on Blanka&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Omegna, Orta San Giulio</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/10_omegna/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/10_omegna/</guid>
+      <description>There are a few lakes in Italy hugged by the Alps which create a completely different vibe from the usual Mediterranean atmosphere.</description>
+    </item>
+  </channel>
+</rss>

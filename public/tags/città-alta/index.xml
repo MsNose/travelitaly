@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Città Alta on Blanka&#39;s Travel Blog</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/citt%C3%A0-alta/</link>
+    <description>Recent content in Città Alta on Blanka&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/citt%C3%A0-alta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brescia</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/5_brescia/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/5_brescia/</guid>
+      <description>A week after our visit I learned from my classmate who is from Bergamo, that they hate Brescia.</description>
+    </item>
+    <item>
+      <title>Bergamo</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/bergamo/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/bergamo/</guid>
+      <description>Brescia and Bergamo have basically the same structure: the lower modern city and the upper historical part.</description>
+    </item>
+  </channel>
+</rss>

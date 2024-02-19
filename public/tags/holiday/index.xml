@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>holiday on Blanka&#39;s Travel Blog</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/holiday/</link>
+    <description>Recent content in holiday on Blanka&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garda - The South</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/9_gardasouth/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/9_gardasouth/</guid>
+      <description>If you look at the Garda lake on the map,it&amp;rsquo;s pear shape is really apparent with the wide round south narrowing itself continuously into the mountain valley.</description>
+    </item>
+    <item>
+      <title>Le Cinque Terre</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/7_le5terre/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/7_le5terre/</guid>
+      <description>Liguria is just a jump away from both Piemonte and Lombardia.</description>
+    </item>
+    <item>
+      <title>Garda - The West</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/4_gardawest/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/4_gardawest/</guid>
+      <description>It seemed like a good idea to book a weekend holidays at Lombardy til its such a good weather.</description>
+    </item>
+  </channel>
+</rss>

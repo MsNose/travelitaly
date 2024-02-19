@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carnival on Blanka&#39;s Travel Blog</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/carnival/</link>
+    <description>Recent content in carnival on Blanka&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/carnival/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ivrea</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/ivrea/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/ivrea/</guid>
+      <description>Ivrea is north of Torino, close to the border with Aosta but still part of Torino Metropolitan Area.</description>
+    </item>
+  </channel>
+</rss>
