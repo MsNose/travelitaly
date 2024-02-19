@@ -10,12 +10,14 @@ tags:
 - chaos
 - Provincia Genova
 description: This is meta description
-image: 
+image: images/2023-08-15-genova/genova.jpg
 type: featured
 
 ---
 
-I actually thought of inviting my family to a beach holiday in Genova. An italian trade city in the North of Italy, the competition to Venice! What else can be more attractive than Genova?!Well, now that i have been there,  I want rephrase this: What can be attractive in Genova? Before you visit this city, you have to do a research to answer this question and try to go only to these nice places if you pursue to avoid unexpected disappointments.
+An italian trade city in the North of Italy, the competition to Venice! I actually thought of inviting my family to a beach holiday in Genova.
+
+What else can be more attractive than Genova?!Well, now that i have been there,  I want rephrase this: What can be attractive in Genova? Before you visit this city, you have to do a research to answer this question and try to go only to these nice places if you pursue to avoid unexpected disappointments.
 
 ## Day 1
 
@@ -51,3 +53,4 @@ Our last hope was the maritime museum. The normal ticket cost 27 euros, and it w
 
 Genova could be impersonalized by the girl who was standing in front of us in the line at the carrefour: she was in her early twenties, and I could imagine she was a natural beauty. But she chose to paint her hair in shade of blue that made her look like she is some kind of see monster, and the baggy black clothes with spiky accessories did not make the view more welcoming. However, we were only fully assured about the weirdness when we saw a live and breathing rat chilling on the girl' shoulder. We thought it must be fake but then it was moving and making sounds and the girl was even petting it occasionally. Rat girl was leaving us with the same shocked impression as city itself. What has happened here that so many things are so weird? I guess I have to be a genovese to answer this question.
 
+{{< gallery dir="/images/2023-08-15-genova/" caption-position="none" />}}
