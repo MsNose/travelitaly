@@ -13,23 +13,22 @@ outputs:
 params:
   author: Blanka
   cookies:
-    enable: yes
+    enable: no
     expire_days: 2
-  copyright: '| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/)
-    All Rights Reserved |'
+  copyright: 
   description: This is meta description
-  email: demo@email.com
+ # email: demo@email.com
   googleAnalitycsID: Your ID
   home: Home
-  location: Dhaka, Bangladedsh
+ # location: Torino
   logo: images/logo.png
-  mobile: 0124857985320
-  newsletter:
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-      At vero
-    enable: yes
-    title: Join Our Newsletter
+  mobile:
+  #newsletter:
+   # content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+     # eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      #At vero
+   # enable: yes
+    #title: Join Our Newsletter
   plugins:
     css:
       - URL: plugins/bootstrap/bootstrap.min.css
@@ -73,9 +72,9 @@ menu:
     - URL: blog/
       name: Post
       weight: 2
-    - URL: contact/
-      name: Contact
-      weight: 3
+   # - URL: contact/
+   #   name: Contact
+   #   weight: 3
   main:
     - URL: about/
       name: About
@@ -83,6 +82,6 @@ menu:
     - URL: blog/
       name: Post
       weight: 2
-    - URL: contact/
-      name: Contact
-      weight: 3
+   # - URL: contact/
+   #   name: Contact
+   #   weight: 3
