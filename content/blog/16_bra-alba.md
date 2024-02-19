@@ -6,7 +6,9 @@ slug: bra-and-alba
 categories:
   - Piedmont
 tags:
-image: 
+- Provincia Cuneo
+- wine
+image: images/2024-01-03-bra-and-alba/IMG_20240103_122445_hdr.jpg
 type: post
 
 ---
@@ -32,3 +34,6 @@ It is really easy to spot these places, because there is always the iconic logo 
 While in Bra the rustic small-town community was dominating, Alba was already a step further. It was the fancy town for the rich locals and the stupid tourists. How do I know? The town was just full of stores trying to sell the special white tartuffo. And this in itself is not a crime, you should promote your local products. But let's imagine a truffle, similar to a cocktail tomato in size. If you are lucky, then you can find it for the price of only 30 euros! If not, well, then just buy kilo for 3000. So, the demographic of this town was a bit different from the usual. The wealth was also reflected by the Nativity scene. In Italy, during the Christmas period the churches get an extra decoration element: the Nativity scenes. These are basically miniature installations depicting the birth of Jesus. Some churches go just with the basics and place Mary, Joseph and three kings figurines in a stall setting. But some churches feel like the really need to impress the public and go hardcore. Alba belong to the latter one. Thus, the church became a popular attraction, from young to old everone dedicating some minutes of their day to observe the touching scene. I think during the time of the exhibitions churches have more visitors than throughout the whole year. This church tradition inspired people so much, that it is not only churches who do this, but also all kinds of private shops. We even had one impressing scene at our local grocery store. 
 
 So there was no better way to end a trip with a glass of Barbera d'Alba at one of the elit bars.
+
+{{< gallery dir="/images/2024-01-03-bra-and-alba/" caption-position="none" />}}
+

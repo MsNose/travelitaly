@@ -6,7 +6,9 @@ slug: susa-valley
 categories:
   - Piedmont
 tags:
-image: 
+- mountains
+- Provincia Torino
+image: images/2024-01-04-susa-valley/1.jpg
 type: post
 
 ---
@@ -47,6 +49,7 @@ They had also some fortresses, towers, churches and amphitheatres lying around d
 
 
 
+{{< gallery dir="/images/2024-01-04-susa-valley/" caption-position="none" />}}
 
 
 

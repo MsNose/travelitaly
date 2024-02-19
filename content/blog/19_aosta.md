@@ -6,8 +6,11 @@ slug: []
 categories:
   - Val d'Aosta
 tags:
-image: 
-type: post
+- mountains
+- nice people
+- Capital
+image: images/2024-02-10-aosta/1.jpg
+type: featured
 
 ---
 
@@ -42,3 +45,5 @@ So many roman buildings concentrated in such a small territory! It has a feeling
 Due the special autonomy, Aosta is more self-dependent and keeps most of its money instead of sending it to Rome. And what a difference it makes! There are actually no crack on the roads, and the pedestrian streets are even paved with really nice stones. There are a lot of playgrounds and schools, all in excellent shape. You see always some event on the main square in front of the town hall. And there are so many bottegas with local products, not talking about the pasticceria and panifico sections and traditional restaurants. The favorite was a restaurant with the flag of the province, advertising with big letters that everything is 100% valdostan. And buses go on time. Im not kidding. You are in Italy, and you can count on public transport. Not too early, not too late, just exactly when it is supposed to come. What more do you need.
 
 This is it. When you think about it, these are such simple things, they should be evident. But we are living in times where everything can get out of control if you are not paying enough attention. Aosta managed to keep things under control to preserve their culture and wealth. They initially got their autonomy due to the French language, however that is not so present anymore. The bilingual region has really anarchical attitudes towards representation, because sometimes texts are in italian, sometimes just in french and then occasionally both of them. And we literally heard just 2 times french language, everything is dominated by Italian. So the change is definitely visible in the decline of their language diversity. However, the valdostani still do exist - and they going to for a very long time, because they are one of those kinds who are not afraid to like themselves and their way of life.
+
+{{< gallery dir="/images/2024-02-10-aosta/" caption-position="none" />}}
