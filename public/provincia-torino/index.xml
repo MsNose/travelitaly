@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Provincia Torino on Blanka&#39;s Travel Blog</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/provincia-torino/</link>
+    <description>Recent content in Provincia Torino on Blanka&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/provincia-torino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Susa Valley</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/susa-valley/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/susa-valley/</guid>
+      <description>Ahh another mountain valley. I love them. They are perfect example of how these geographical barriers create special societies, which flourish not just culturally and socially, but also economically.</description>
+    </item>
+    <item>
+      <title>Ivrea</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/ivrea/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/ivrea/</guid>
+      <description>Ivrea is north of Torino, close to the border with Aosta but still part of Torino Metropolitan Area.</description>
+    </item>
+    <item>
+      <title>Torino</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/torino/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/torino/</guid>
+      <description>I would have never imagined that one can find it pleasant to live in a big city.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mountains on Blanka&#39;s Travel Blog</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/mountains/</link>
+    <description>Recent content in mountains on Blanka&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/mountains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aosta</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/19_aosta/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/19_aosta/</guid>
+      <description>Ahh, Aosta. Quelle magnifique! Can you imagine a small town in the valley surrounded by snow-peaked mountains, singing birds, alpine architecture and roman remains?</description>
+    </item>
+    <item>
+      <title>Susa Valley</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/susa-valley/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/susa-valley/</guid>
+      <description>Ahh another mountain valley. I love them. They are perfect example of how these geographical barriers create special societies, which flourish not just culturally and socially, but also economically.</description>
+    </item>
+    <item>
+      <title>Aosta valley</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/aosta-valley/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/aosta-valley/</guid>
+      <description>If you want to find functioning, pleasant villages in Italy, then the Aosta valley is the best place.</description>
+    </item>
+    <item>
+      <title>Sondrio &amp; Domodossola</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/15_sondrio-domo/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/15_sondrio-domo/</guid>
+      <description>These two towns have quite similar base: the mountain valley culinary hotspots completely isolated from the the rest of the region.</description>
+    </item>
+    <item>
+      <title>Omegna, Orta San Giulio</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/10_omegna/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/10_omegna/</guid>
+      <description>There are a few lakes in Italy hugged by the Alps which create a completely different vibe from the usual Mediterranean atmosphere.</description>
+    </item>
+    <item>
+      <title>Ivrea</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/ivrea/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/ivrea/</guid>
+      <description>Ivrea is north of Torino, close to the border with Aosta but still part of Torino Metropolitan Area.</description>
+    </item>
+  </channel>
+</rss>
