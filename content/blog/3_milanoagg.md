@@ -7,7 +7,7 @@ categories:
 - Lombardy
 tags:
 - Provincia Milano
-image: 
+image: images/2023-09-05-the-milano-agglomeration/3.jpg
 type: post
 
 ---
@@ -25,3 +25,6 @@ I already got used to the presence of the police everywhere because of safety is
 The day could have not been more of an example of the horrors of wrong choices, since even in the milanese metro we experienced a conflict. Apparently, somebody was attempting to steal a belonging but when trying to quickly leave the metro he got caught, ending up in a continuous push and pull at the stop, disabling the doors from closing. The scene was also accompanied by some screaming from the shocked passengers. In the end the backpack got back to the owner and the stealer got kicked out of the metro thanks to a big guy who was using a jacket as a whip to keep the thief away.
 
 No matter how rich, aesthetically pleasing,  or well planned your town is. It can be ruined in a second if you do not have a strong community. Unless the demos gets reestablished and Europeans start standing up for their values and beliefs, this is just gonna get worse.
+
+
+{{< gallery dir="/images/2023-09-05-the-milano-agglomeration/" caption-position="none" />}}

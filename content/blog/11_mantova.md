@@ -6,13 +6,17 @@ slug: mantova-cremona
 categories:
   - Lombardy
 tags:
+- Provincia Mantova
+- renaissance
 description: ~
-image: 
+image: images/2023-10-25-mantova-cremona/20231025_163014_HDR.jpg
 math: ~
 license: ~
-type: post
+type: featured
 
 ---
+
+Renaissance, isolation and high life quality. What more do you need.
 
 Lombardy is highly centralized. The whole region consists of the gigantic circle of Milano with all of the agglomeration sticking to it, and then on the eastern  line there is Bergamo and Brescia. Otherwise the south is empty, except for a few dots, representing the smaller communes, which are quite isolated from each other. Mantova is one of these dots, namely the most eastern one. It looks like as if it wants to escape Lombardy.
 
@@ -29,5 +33,6 @@ This renaissance beauty is also present in Cremona, but there somehow the soul i
 Fun-fact: around the time  of Matilda di Canossa chestnut was a really popular part of cuisine, not because of itst taste, but rather because there was not much else. So it was a great base for food survival before the time of the potato. In fact it is still big part of Italian culture, you often see chestnut sellers on the street and in the automn there are even special chestnut programs. Anyways, it was during Matilda's time when they figured out how to plant chestnut trees effectively, namely, in a triangle form where each side is 10 meters long. They call this technic the 'Matilidic planting layout'. It was actually the monks who have come up with the technique, but it was Matilda who ordered them, so after all, we can pretend it was her invention.
 
 
+{{< gallery dir="/images/2023-10-25-mantova-cremona/" caption-position="none" />}}
 
 

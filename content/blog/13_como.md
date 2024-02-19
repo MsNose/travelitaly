@@ -7,7 +7,7 @@ categories:
   - Lombardy
 tags:
 description: ~
-image: 
+image: images/2023-11-03-como-and-ticino/como.jpg
 math: ~
 license: ~
 type: post
@@ -27,4 +27,5 @@ Lugano is the capital of the Ticino canton, being the biggest Italian speaking c
 
 We payed actually a lot to get there but ended up spending not more than 90 minutes in the town. Except for a gorgeous church there is not much that caught our attention. They are apparently a banking and finance hotspot, which is great if you love money. But if you and up importing all kinds of people, doing insane scale building projects to create suburban areas, naturally, with insanely ugly flats, and lack any kind of cultural identity, then its kind of hard to create a lovely place. No wonder that my classmate from Lugano was not hyped about the place. They were lacking the community so much that even built a social centre to organize activities but had to shut it down due to public order and it even got burned down.
 
+{{< gallery dir="/images/2023-11-03-como-and-ticino/" caption-position="none" />}}
 

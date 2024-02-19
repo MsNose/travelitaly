@@ -5,8 +5,11 @@ date: '2023-12-07'
 slug: []
 categories:
   - Piedmont&Lombardy
-tags: []
-image: 
+tags: 
+- mountains
+- Provincia Verbano-Cusio-Ossola
+- Provincia Sondrio
+image: images/2023-12-07-sondrio-domodossola/1.jpg
 type: post
 
 ---
@@ -35,5 +38,6 @@ Domodossola is an ideal place for saturday cheap shopping, if a you are a swiss 
 
 So, these two beautiful Alpine towns can really warm your heart, although in very different ways. It is just a matter of taste. But as long as they are Alpine, they are always going to be impressive. 
 
+{{< gallery dir="/images/2023-12-07-sondrio-domodossola/" caption-position="none" />}}
 
 

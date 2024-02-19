@@ -7,7 +7,8 @@ categories: ["Liguria"]
 tags:
 - holiday
 - Provincia La Spezia
-image:
+- mediterranian
+image: images/2023-09-29-le-cinque-terre/1.jpg
 type: post
 
 ---
@@ -40,3 +41,7 @@ Honestly, I enjoyed more going to Porta Venere, a cute coast 20 minutes away fro
 There was no other way to end this holiday then to go to the beach and have an aperativo.
 
 So the moral of the story is that don't trust the cliche stuffs and just follow your own instincts. Unless you have low standards. Then the cinque terre is perfect for you.
+
+
+
+{{< gallery dir="/images/2023-09-29-le-cinque-terre/" caption-position="none" />}}

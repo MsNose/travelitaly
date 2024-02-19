@@ -9,7 +9,7 @@ tags:
 - Lago Garda
 - holiday
 - Provincia Brescia
-image: 
+image: images/2023-09-08-garda-west/20230908_193345.jpg
 type: post
 
 ---
@@ -34,5 +34,6 @@ Riva del Garda, the most Northern part of the lake was a nice summer residence f
 ## Limone
 The historical roots are not that deep here, so instead, they have an alternative story. Limone sul Garda, as one can guess is famous for only one thing:limone. This town did not really exist until the 18th century when some cool guys had idea to grow lemons in Northern Italy, which is not really the ideal climate for the fruit with the harsher winters.  The miracle happened, and the lemons actually survived, and now thats their identaty. Like its crazy from the streets signs to chocolates, soaps and pizza plates everything is with lemon. But the most important is naturally the alcohol: limoncello! We were lucky to taste it at one of the shops-they dont really have any other shops than lemon shops - and it was delicious. So we could not resist and bought our own limoncello from Limone. And we even managed to step in to the lake for a while which was a great sensation to the feet with the stoney ground.
 
+{{< gallery dir="/images/2023-09-08-garda-west/" caption-position="none" />}}
 
 
