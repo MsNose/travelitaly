@@ -107,6 +107,6 @@ Il Castello non c'è più.
 
 </center>
 
-
-{{< gallery dir="/images/2023-10-07-ivrea/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2023-10-07-ivrea/" caption-position="none" />}}
 
