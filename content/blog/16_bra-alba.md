@@ -35,5 +35,6 @@ While in Bra the rustic small-town community was dominating, Alba was already a 
 
 So there was no better way to end a trip with a glass of Barbera d'Alba at one of the elit bars.
 
-{{< gallery dir="/images/2024-01-03-bra-and-alba/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2024-01-03-bra-and-alba/" caption-position="none" />}}
 
