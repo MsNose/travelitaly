@@ -35,6 +35,7 @@ There is something for everyone. Are you a nice rich couple with young children 
 
 If you are a bit poorer, you can just have a 5 euro to go spritz and smoke some weed while sitting at one of the benches at the canal. If you want to have a more cultural you can have your aperativo at the brera district! If you want to escape societ you can just go to the Sforza castle and admire the piece of history untouched by modernity. If you want to be surrounded by an army of tourist you can go and enjoy the beautiful duomo. If you want to learn something, go to one of the amazing museums, like the Leonardo da Vinci or the National Science Museum. And these are just a few faces of Milano. So go have a look and choose what fits you best.
 
-{{< gallery dir="/images/2023-11-11-milano/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2023-11-11-milano/" caption-position="none" />}}
 
 
