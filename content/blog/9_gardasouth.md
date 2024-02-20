@@ -27,8 +27,8 @@ Obviously, what would this peninsula be without a luxurious roman villa! Even th
 
 So sadly, after all, these unique places like Sirmione can never survive as real town. Like every other place with rare treasures, it will be eaten up by tourists, and just feed itself from them, not ever reaching prosperity. Honestly, there is the lake, the beach, the olive trees, the villas, the history - but who would want to live in this fantasy filled with strangers?
 
-
-{{< gallery dir="/images/2023-10-12-garda-the-south/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2023-10-12-garda-the-south/" caption-position="none" />}}
 
 
 
