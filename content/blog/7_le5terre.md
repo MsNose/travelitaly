@@ -43,5 +43,5 @@ There was no other way to end this holiday then to go to the beach and have an a
 So the moral of the story is that don't trust the cliche stuffs and just follow your own instincts. Unless you have low standards. Then the cinque terre is perfect for you.
 
 
-
-{{< gallery dir="/images/2023-09-29-le-cinque-terre/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2023-09-29-le-cinque-terre/" caption-position="none" />}}
