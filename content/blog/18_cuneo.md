@@ -24,7 +24,7 @@ Therefore, we decided to go for an adventure to Saluzzo. After all, Saluzzo was 
 
 {{< load-photoswipe >}}
 
-{{< gallery dir="/images/18_cuneo/" caption-position="none" />}}
+{{< gallery dir="images/18_cuneo/" caption-position="none" />}}
 
 
 
