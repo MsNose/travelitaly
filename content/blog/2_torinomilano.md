@@ -37,7 +37,8 @@ But how does then a 100 thousand people town look like? Novara is the second big
 
 So even though Novara was a much busier town, Chivasso felt more lively. Maybe this confusion in Novara also has roots in the constant switch between left and right mayors. Maybe by learning about Vercelli next time will help in understanding this line better.
 
-{{< gallery dir="/images/2023-09-04-the-torino-milano-line/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2023-09-04-the-torino-milano-line/" caption-position="none" />}}
 
 
 
