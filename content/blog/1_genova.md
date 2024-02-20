@@ -53,4 +53,5 @@ Our last hope was the maritime museum. The normal ticket cost 27 euros, and it w
 
 Genova could be impersonalized by the girl who was standing in front of us in the line at the carrefour: she was in her early twenties, and I could imagine she was a natural beauty. But she chose to paint her hair in shade of blue that made her look like she is some kind of see monster, and the baggy black clothes with spiky accessories did not make the view more welcoming. However, we were only fully assured about the weirdness when we saw a live and breathing rat chilling on the girl' shoulder. We thought it must be fake but then it was moving and making sounds and the girl was even petting it occasionally. Rat girl was leaving us with the same shocked impression as city itself. What has happened here that so many things are so weird? I guess I have to be a genovese to answer this question.
 
+{{< load-photoswipe >}}
 {{< gallery dir="/images/2023-08-15-genova/" caption-position="none" />}}
