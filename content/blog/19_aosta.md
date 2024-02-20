@@ -14,7 +14,7 @@ type: featured
 
 ---
 
-Ahh, Aosta. Quelle magnifique! Can you imagine a small town in the valley surrounded by snow-peaked mountains, singing birds, alpine architecture and roman remains? And on top of that it serves as a provincial capital and has all the infrastructure, stores and services that you dream of without it being an overcrowded unsafe miserable to city? Welcome to Aosta.
+Ahh, Aosta. Quelle magnifique! Can you imagine a small town in the valley surrounded by snow-peaked mountains, singing birds, alpine architecture and roman remains? And on top of that it serves as a provincial capital and has all the infrastructure, stores and services that you dream of without it being an overcrowded unsafe miserable city? Welcome to Aosta.
 
 
 
@@ -46,4 +46,5 @@ Due the special autonomy, Aosta is more self-dependent and keeps most of its mon
 
 This is it. When you think about it, these are such simple things, they should be evident. But we are living in times where everything can get out of control if you are not paying enough attention. Aosta managed to keep things under control to preserve their culture and wealth. They initially got their autonomy due to the French language, however that is not so present anymore. The bilingual region has really anarchical attitudes towards representation, because sometimes texts are in italian, sometimes just in french and then occasionally both of them. And we literally heard just 2 times french language, everything is dominated by Italian. So the change is definitely visible in the decline of their language diversity. However, the valdostani still do exist - and they going to for a very long time, because they are one of those kinds who are not afraid to like themselves and their way of life.
 
-{{< gallery dir="/images/2024-02-10-aosta/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2024-02-10-aosta/" caption-position="none" />}}
