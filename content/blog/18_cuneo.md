@@ -12,7 +12,7 @@ type: post
 ---
 
 
-La Granda. That's the nickname of the Provincia di Cuneo. It is not because it sooo great - it has just the biggest territory.
+La Granda. That's the nickname of the Provincia di Cuneo. It is not because it sooo great - the province has just the biggest territory in Piedmont.
 
 
 And somehow the rest of Piemonte always makes fun of this province. When I was at the bike store in Torino having a chitchat with the owner about whether it is safe to bike in the city, he said "Yes, here it is okay, just dont go to Cuneo they drive like crazy!" Moreover, once I was listening on a train to 2 university students who accidently bumped to each other and apparently they were form Cuneo. As a consequence, during the whole 2 hour ride they were gossiping about the happenings in the town, but mostly about people. It seemed like they know everybody. And on top of that, they are the hardcore leftwing bastion of the region, voting differently for a really long time. So that also shows that the Cuneesi experience life in a different way.
