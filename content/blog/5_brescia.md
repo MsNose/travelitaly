@@ -63,7 +63,7 @@ On the main shopping street I was really trying to find to usual Lombardy stuff,
 The Brescians fought a lot for their town. They rose up, they volunteered, they never gave up, no matter what the situation was. And now, arriving to the 2020s, you cannot even say that the Brescians lost the war-they did not even participate in it. Instead of volunteering as soldiers to fight for their independence they volunteered to leave all the things behind. Without any resistance. They just disappeared. If the brave freedom fighters and nurses knew what future they died for...
 
 
-
-{{< gallery dir="/images/2023-09-20-brescia/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2023-09-20-brescia/" caption-position="none" />}}
 
 
