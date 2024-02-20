@@ -48,8 +48,8 @@ We visited the capital on foggy and rainy day, which gave a spiritual experience
 They had also some fortresses, towers, churches and amphitheatres lying around dating back to Roman times. it was hard to walk in the town and not accidently bump into an attraction. The city had also great sexual energy, we witnessed some teenagers having really intimate moments on a public bench, and afterwards saw them going to ruins of the amphitheater, probably not with the intent to admire the sight, but rather taking advantage of the fact that nobody is there. The locals at cafè were also in a really good mood despite the bad weather, so it seems like they are having a nice life. I mean if you have any worries you just go for a hike to the mountains or do a causual Roman sight tour. And it is fixed. Based on this I would have expected Susa to thrive more, but it still has in some neglected parts. It does not particularly feel rich, when you compare it to other places with same characteristics. Their voting behavior is also in line with their weirdness. In the past years, they were outliers in the North. Here, most people are naturally centre-right, while in the south the left populist party, the 5star movement is the winner. Their voter base is thus the typical southern Italian who is fed up with that the fact that things dont work and wnats more omney from the goverment. Therefore, it is interesting, that throughout multiple elections the Susa valley showed a collective support for this party. Could it be that they also feel like that their place can be better but they are being held back? Shouldnt they fight rather for their autonomy and separation form Provinincia Torino to be the Piemontese Aosta? There is still a lot of research to be done to fully understand what is exacty is happining to the Susa Valley.
 
 
-
-{{< gallery dir="/images/2024-01-04-susa-valley/" caption-position="none" />}}
+{{< load-photoswipe >}}
+{{< gallery dir="images/2024-01-04-susa-valley/" caption-position="none" />}}
 
 
 
