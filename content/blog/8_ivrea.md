@@ -26,7 +26,7 @@ Ivrea is north of Torino, close to the border with Aosta but still part of Torin
 
 The town is really alive, we were even fortunate enough to witness a
 wedding where half of the town participated. You could immediately feel
-the shift to the Alpine regio, it is the last town before the valley,
+the shift to the Alpine region. It is the last town before the valley,
 just at the legs of the mountains, like all the other startegical towns.
 It was the first time we saw a mountain river, in a light blue color
 that I have never seen before, it was truly beautiful. It was also hard
@@ -40,28 +40,28 @@ that we were having about the war that broke out in Israel that morning.
 
 These people really could not care less about these things with their
 calm paradise town. They entered the state of having it soo good, that
-their only was of expressing political opinion is virtue signaling.
+their only way of expressing political opinion is virtue signaling.
 Would you believe that in this 20000 inhabitants town at the Alps where
-they only have train connections to Torino and Novara they had a peace
-demonstration in the main square? We were naive to think that they mean
+they only have train connections to Torino and Aosta they had a peace
+demonstration on the main square? We were naive to think that they mean
 peace for Ukraine, and just later realized the gigantic flag hanging
-from the balcony with "woman,life,freedom". So the ivreans biggest
+from the balcony with "woman,life,freedom". So the ivreans' biggest
 concern on this Saturday lunchtime was the oppressed woman in Iran. But
-know after waiving a rainbow flag and putting some music on it's okay.
+now after waiving a rainbow flag and putting some music on it's okay.
 They saved the world.
 
 
 
-Usually in these mountaineaus towns you have the città alto and basso -
+Usually in these mountainous towns you have the città alto and basso -
 the upper town which served as the perfect spot for fortresses to defend
 the position, and the lower town which was just the extended urban area.
-Ivrea had also a nice fortress up on the hill bit for some reason it
-look really neglected and deserted. Maybe it had to so something with
+Ivrea had also a nice fortress up on the hill but for some reason it
+looks really neglected and deserted. Maybe it had to so something with
 the church serving as a migrant welcoming location next to the fortress
-and building a social housing for the Arabs and Africans who were just
+and building a social housing for the foreigners who were just
 messing around being bored. Maybe.
 
-I'm really said though because apparently they have a great carnival
+I'm really sad though because apparently they have a great carnival
 tradition of orange throwing which I would have loved to see, but
 unfortunately it's just in February.
 
