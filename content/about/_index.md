@@ -19,7 +19,7 @@ During my Erasmus semester in Northern Italy I collected many beautiful memories
 
 > Being surrounded by beauty is a quintessential part of a healthy and satisfying life
 
-> No matter how hard you try, the openness and spirit of the Italian people will definitely take you over
+> No matter how hard you try to resist, the openness and spirit of the Italian people will definitely take you over
 
 > Practicing Italian is the easiest thing: you can never create an awkward situation, no matter your language skills.
 
