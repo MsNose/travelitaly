@@ -9,6 +9,7 @@ tags:
 - mediterranian
 - chaos
 - Provincia Genova
+- capital
 description: This is meta description
 image: images/2023-08-15-genova/genova.jpg
 type: featured
