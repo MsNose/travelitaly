@@ -21,7 +21,7 @@ During my Erasmus semester in Northern Italy I collected many beautiful memories
 
 > No matter how hard you try to resist, the openness and spirit of the Italian people will definitely take you over
 
-> Practicing Italian is the easiest thing: you can never create an awkward situation, no matter your language skills.
+> Practicing Italian is the easiest thing: you can never create an awkward situation. Italians are going to talk to you, regardless of your language skills.
 
 > 'Un cafè per favore' is the most useful sentence. Under cafè they mean espresso. That is the true coffee. Btw drinking milky coffee after lunch is CRIMINAL.
 
