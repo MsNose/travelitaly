@@ -80,7 +80,7 @@ menu:
       name: About
       weight: 1
     - URL: blog/
-      name: Post
+      name: Italy
       weight: 2
     - URL: vlaanderen/
       name: Vlaanderen
