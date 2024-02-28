@@ -82,6 +82,6 @@ menu:
     - URL: blog/
       name: Post
       weight: 2
-   # - URL: contact/
-   #   name: Contact
-   #   weight: 3
+    - URL: vlaanderen/
+      name: Vlaanderen
+      weight: 3
