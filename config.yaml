@@ -70,7 +70,7 @@ menu:
       name: About
       weight: 1
     - URL: blog/
-      name: Italy
+      name: Posts
       weight: 2
    # - URL: contact/
    #   name: Contact
@@ -80,7 +80,7 @@ menu:
       name: About
       weight: 1
     - URL: blog/
-      name: Italy
+      name: Posts
       weight: 2
    # - URL: belgium/
    #   name: Belgium
