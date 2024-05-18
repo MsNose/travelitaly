@@ -82,6 +82,6 @@ menu:
     - URL: blog/
       name: Italy
       weight: 2
-    - URL: belgium/
-      name: Belgium
-      weight: 3
+   # - URL: belgium/
+   #   name: Belgium
+   #   weight: 3
